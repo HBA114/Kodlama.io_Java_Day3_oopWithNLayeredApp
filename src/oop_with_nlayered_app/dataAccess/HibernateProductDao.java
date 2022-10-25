@@ -1,6 +1,6 @@
-package oop_withith_nlayered_app.dataAccess;
+package oop_with_nlayered_app.dataAccess;
 
-import oop_withith_nlayered_app.entities.Product;
+import oop_with_nlayered_app.entities.Product;
 
 public class HibernateProductDao implements ProductDao {
 

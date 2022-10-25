@@ -1,4 +1,4 @@
-package oop_withith_nlayered_app.core.logging;
+package oop_with_nlayered_app.core.logging;
 
 public class FileLogger implements Logger {
 

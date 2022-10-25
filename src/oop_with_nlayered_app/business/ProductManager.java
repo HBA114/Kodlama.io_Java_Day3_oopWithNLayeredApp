@@ -1,8 +1,8 @@
-package oop_withith_nlayered_app.business;
+package oop_with_nlayered_app.business;
 
-import oop_withith_nlayered_app.core.logging.Logger;
-import oop_withith_nlayered_app.dataAccess.ProductDao;
-import oop_withith_nlayered_app.entities.Product;
+import oop_with_nlayered_app.core.logging.Logger;
+import oop_with_nlayered_app.dataAccess.ProductDao;
+import oop_with_nlayered_app.entities.Product;
 
 public class ProductManager {
 

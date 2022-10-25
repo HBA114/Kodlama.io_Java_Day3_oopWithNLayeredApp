@@ -1,4 +1,4 @@
-package oop_withith_nlayered_app.entities;
+package oop_with_nlayered_app.entities;
 
 public class Product {
     private int id;
