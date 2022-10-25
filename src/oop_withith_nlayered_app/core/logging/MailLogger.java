@@ -1,4 +1,4 @@
-package oopWithNLayeredApp.core.logging;
+package oop_withith_nlayered_app.core.logging;
 
 public class MailLogger implements Logger {
 
